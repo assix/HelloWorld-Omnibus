@@ -1,0 +1,5 @@
+GET "LIBHDR"
+LET START() = VALOF $(
+    WRITES("Hello, World!*N")
+    RESULTIS 0
+$)
