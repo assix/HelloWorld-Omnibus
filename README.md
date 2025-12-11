@@ -10,15 +10,6 @@ This repository is a comprehensive collection of "Hello, World!" programs writte
 
 From industry giants like **Python**, **C++**, and **Java**, to historical classics like **COBOL** and **Fortran**, and even esoteric languages like **Brainfuck** and **LOLCODE**.
 
-## ⚡ How It Was Built
-
-This entire repository structure and all source code files were automatically generated using a Python automation script. The script iterates through a dictionary of languages and syntax, creating the files and the directory structure programmatically.
-
-### The Generator
-You can regenerate this project by running the included script:
-
-```bash
-python3 generate_top_100.py
 
 📂 Project Structure
 
